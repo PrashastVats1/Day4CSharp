@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day4\Exercise_2D_Arrays\Exercise_2D_Arrays\bin\Debug\Exercise_2D_Arrays.exe.config
+D:\Mphasis\Live Session\Day4\Exercise_2D_Arrays\Exercise_2D_Arrays\bin\Debug\Exercise_2D_Arrays.exe
+D:\Mphasis\Live Session\Day4\Exercise_2D_Arrays\Exercise_2D_Arrays\bin\Debug\Exercise_2D_Arrays.pdb
+D:\Mphasis\Live Session\Day4\Exercise_2D_Arrays\Exercise_2D_Arrays\obj\Debug\Exercise_2D_Arrays.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day4\Exercise_2D_Arrays\Exercise_2D_Arrays\obj\Debug\Exercise_2D_Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day4\Exercise_2D_Arrays\Exercise_2D_Arrays\obj\Debug\Exercise_2D_Arrays.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day4\Exercise_2D_Arrays\Exercise_2D_Arrays\obj\Debug\Exercise_2D_Arrays.exe
+D:\Mphasis\Live Session\Day4\Exercise_2D_Arrays\Exercise_2D_Arrays\obj\Debug\Exercise_2D_Arrays.pdb
