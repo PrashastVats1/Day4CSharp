@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day4\ConsoleApp_2D_Array\ConsoleApp_2D_Array\bin\Debug\ConsoleApp_2D_Array.exe.config
+D:\Mphasis\Live Session\Day4\ConsoleApp_2D_Array\ConsoleApp_2D_Array\bin\Debug\ConsoleApp_2D_Array.exe
+D:\Mphasis\Live Session\Day4\ConsoleApp_2D_Array\ConsoleApp_2D_Array\bin\Debug\ConsoleApp_2D_Array.pdb
+D:\Mphasis\Live Session\Day4\ConsoleApp_2D_Array\ConsoleApp_2D_Array\obj\Debug\ConsoleApp_2D_Array.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day4\ConsoleApp_2D_Array\ConsoleApp_2D_Array\obj\Debug\ConsoleApp_2D_Array.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day4\ConsoleApp_2D_Array\ConsoleApp_2D_Array\obj\Debug\ConsoleApp_2D_Array.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day4\ConsoleApp_2D_Array\ConsoleApp_2D_Array\obj\Debug\ConsoleApp_2D_Array.exe
+D:\Mphasis\Live Session\Day4\ConsoleApp_2D_Array\ConsoleApp_2D_Array\obj\Debug\ConsoleApp_2D_Array.pdb
