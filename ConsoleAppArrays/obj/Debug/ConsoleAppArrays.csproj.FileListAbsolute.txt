@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day4\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe.config
+D:\Mphasis\Live Session\Day4\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe
+D:\Mphasis\Live Session\Day4\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.pdb
+D:\Mphasis\Live Session\Day4\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day4\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day4\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day4\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.exe
+D:\Mphasis\Live Session\Day4\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.pdb
