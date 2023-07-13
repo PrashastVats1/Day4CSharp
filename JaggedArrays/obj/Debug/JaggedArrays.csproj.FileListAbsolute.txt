@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day4\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.exe.config
+D:\Mphasis\Live Session\Day4\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.exe
+D:\Mphasis\Live Session\Day4\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.pdb
+D:\Mphasis\Live Session\Day4\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day4\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day4\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day4\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+D:\Mphasis\Live Session\Day4\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.pdb
