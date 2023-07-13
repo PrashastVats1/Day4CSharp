@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day4\Day4_Assignments\Day4_Assignments\bin\Debug\Day4_Assignments.exe.config
+D:\Mphasis\Live Session\Day4\Day4_Assignments\Day4_Assignments\bin\Debug\Day4_Assignments.exe
+D:\Mphasis\Live Session\Day4\Day4_Assignments\Day4_Assignments\bin\Debug\Day4_Assignments.pdb
+D:\Mphasis\Live Session\Day4\Day4_Assignments\Day4_Assignments\obj\Debug\Day4_Assignments.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day4\Day4_Assignments\Day4_Assignments\obj\Debug\Day4_Assignments.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day4\Day4_Assignments\Day4_Assignments\obj\Debug\Day4_Assignments.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day4\Day4_Assignments\Day4_Assignments\obj\Debug\Day4_Assignments.exe
+D:\Mphasis\Live Session\Day4\Day4_Assignments\Day4_Assignments\obj\Debug\Day4_Assignments.pdb
